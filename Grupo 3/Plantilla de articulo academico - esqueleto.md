@@ -1,14 +1,12 @@
-﻿Actualización informática para agilizar los procesos del Centro de Cuido y Desarrollo Infantil 
+﻿Problemas éticos relacionados con la privacidad y hackeo de perfiles en Redes Sociales. 
 
-Computing update to streamline the processes of the Child Care and Development Center
+Ethical problems related to privacy and hacking of profiles in Social Networks. 
+ 
+David Brenes Vega, Daniela Solís Castro, Roberto Carlos Rodríguez, Johan Vásquez Alvarado. 
 
-*Maricela Arroyo Mena, Hensley Gabriela Vega Mora, Berny Gerardo Calvo, Fauricio Alban Conejo Navarro*
+Recibido DD/MM/AAAA 
 
-Recibido DD/MM/AAAA
-
-Aprobado DD/MM/AAAA
-|8|Tecnología Vital Por Confirmar – Mes Año|
-| :- | -: |
+Aprobado DD/MM/AAAA 
 
 
 
@@ -17,21 +15,33 @@ Aprobado DD/MM/AAAA
 
 ***Abstract-** This research was born because of the need for the child care and development center of Llanos de Santa Lucia in Paraíso de Cartago, it was created so that low-income children attend the place, while their parents or guardians’ study and / or work. The CECUDI of Llanos de Santa Lucia in Paraíso de Cartago is part of the public policy that allows providing early care and stimulation to children living in our country. This program arises from the need for the articulation of divided and focused social policies, which have sought to respond to populations in vulnerability and risk, such as children. The problem presented is the insufficient infrastructure and technological equipment, given this difficulty, a proposal for a computer update plan is presented to adapt the children's learning process and facilitate the activities of the center. The work showed that due to the lack of support, the center lacked funds and infrastructure in order to have an adequate system. According to those shown, an improvement plan is proposed for the CECUDI center to help the community. With these results, it is proposed to comply with Law N. 9220 and Law N. 9290.*
 
-***Palabras Claves: CECUDI, Cartago, centro de cuido y desarrollo infantil, Santa Lucia, Paraiso, infraestructura, politica.*** 
+Palabras Claves: Privacidad, redes sociales, hackeo, ética tecnológica 
 
 ***Keywords: CECUDI, Carthage, child care and development center, Santa Lucia, Paraiso, infrastructure, politics.***
 
 1. **INTRODUCCIÓN** 
+La presente investigación se refiere al tema de problemas éticos relacionados con la privacidad de la información y como esto afecta a las personas de formas más cotidiana, en relación a la privacidad que pueda existir en diferentes medios tanto virtuales como medios físicos y como estos mantienen un constante registro de los movimientos que se hacen diariamente.  
 
-AAA
+También se hará énfasis en el tema de las redes sociales y como estas contribuyen a la filtración de información de manera tanto directa como indirecta, en relación a los casos de posible filtración y venta de información por parte de las compañías que mantienen las funciones de estas, como también el uso que los usuarios les dan a estás y cuanta información se comparte de manera pública. 
+
+Para analizar esta problemática es necesario de mencionar sus causas. Una de ellas es el constante avance de la tecnología y la constante necesidad de automatizar los servicios públicos para aumentar la eficiencia. Otra de estas también sería la confianza ciega que los usuarios le tiene a la tecnología como no se piensa en las consecuencias a la hora de posibles fallas o alteraciones por parte de terceros en estas. 
 
 1. **ANTECEDENTES DEL PROBLEMA DE ESTUDIO** 
+ En el “Informe de la Fundación Pfizer. La juventud y las redes sociales en Internet” (2009) 
 
-AAA
+Se recoge que: o El 14,7% de jóvenes que utilizan las redes sociales perciben como negativo la falta de privacidad en ellas. Es la segunda razón que dan después de percibir en un 43,7% a las redes sociales como algo abierto al engaño. Estudio sobre la privacidad en el uso de las redes sociales de Internet en el IES Emilio Jimeno de Calatayud – José Luis García Aparici 27 o El 21,9% de los jóvenes piensa que las redes sociales son una amenaza para la vulneración de datos e información personal. Esta amenaza es la que tiene mayor porcentaje de todas las posibles. 
+
+De lo analizado en el comentario anterior nos dice que los jóvenes saben que las redes sociales poseen problemas graves de privacidad tales como robo de datos e información personal y que estas tienen un gran porcentaje de engañar a otros. Esto es, muy importante ya hace que se reduzcan los riegos de las redes sociales. 
+
+ En el Informe Generación 2.0 (2010): “Hábitos de los adolescentes en el uso de las redes sociales. Estudio comparativo entre Comunidades Autónomas” realizado por la Universidad Camilo José Cela (Adolfo Sánchez y Mª Poveda Fernández) 
+
+ Se señala, en relación con la privacidad, que: o El 65% de los adolescentes tiene más de 100 contactos. o La mayoría de sus contactos son amigos en la vida real, siendo gente desconocida sólo un 6,8% de sus contactos. o El 73% de los adolescentes emplea alguna estrategia para proteger su privacidad (aceptar sólo gente conocida, no poner datos personales, bloquear el perfil, cambiar contraseñas o usar un pseudónimo). 
+
+	La importancia de crear estrategias para que las redes sociales no se vuelvan un problema a futuro a pesar de los incontables casos y problemas que siguen ocasionando en la actualidad. 
+
 
 1. **PLANTEAMIENTO DEL PROBLEMA** 
-
-AAAA
+El motivo por el cual se va a analizar la ética de privacidad en redes sociales es debido a la problemática que existe hoy en día debido al mundo tecnológico en el que vivimos, y la gran variedad de personas que hacen uso de las redes además de las empresas o personas que las crean y los problemas de privacidad y robo de identidad que pueden ocasionar debido al mal uso de estas. 
 
 1. **JUSTIFICACIÓN**
 
